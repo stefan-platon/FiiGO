@@ -1,1 +1,2 @@
 # FIIGO
+Implementarea jocului GO folosind Java (back-end) și JavaFX (interfață). Utilizatorul va putea juca contra unui oponent uman sau împotriva unui algoritm de inteligență artificială. Acest algoritm are la bază rețele neuronale (create folosind biblioteca deeplearning4j), care învață să joace folosind reinforcement learning (q-learning), căpătând "experiență și inteligență" jucând continuu contra sieși.
